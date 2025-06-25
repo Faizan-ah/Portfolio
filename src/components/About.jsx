@@ -35,7 +35,7 @@ const About = () => (
         research, and development work. Most of my experience lies in web
         development, but I&apos;ve dabbled in mobile too, and I&apos;m always up
         for learning something new. Recently, I&apos;ve also been exploring AI
-        and data science—building small ML models, experimenting with data
+        and data science; building small ML models, experimenting with data
         pipelines, and understanding how intelligent systems can be folded into
         full-stack applications.
       </motion.p>
@@ -55,17 +55,17 @@ const About = () => (
       <motion.p variants={fadeIn('', '', 1.25, 1)} className={style.text}>
         I&apos;ve shipped production-ready applications using React (JavaScript
         & TypeScript), Spring Boot (Java/Kotlin), and the MERN stack. Databases?
-        MySQL, PostgreSQL, MongoDB—you name it. Cloud? Been there with AWS, GCP,
-        and Huawei Cloud. Need server-side configs or DevOps setup? I&apos;ve
-        handled pipelines cleaner than a barbershop fade.
+        MySQL, PostgreSQL, MongoDB; you name it. Cloud? Been there with AWS,
+        GCP, and Huawei Cloud. Need server-side configs or DevOps setup?
+        I&apos;ve handled pipelines cleaner than a barbershop fade.
       </motion.p>
       <motion.p variants={fadeIn('', '', 1.5, 1)} className={style.text}>
-        I don&apos;t just code—I solve problems. I&apos;ve worked with
+        I don&apos;t just code, I solve problems. I&apos;ve worked with
         cross-functional teams, translated vague client ideas into working
         features, and delivered projects on time and under budget. I stay
         curious, stay learning, and stay ready for whatever&apos;s next in tech.
         Let&apos;s build something awesome. If you&apos;ve got an idea, a job,
-        or just want to talk shop—drop me a line.
+        or just want to talk shop; drop me a line.
       </motion.p>
       <motion.p variants={fadeIn('', '', 1.75, 1)} className={style.text}>
         📄 Want to know more?{' '}

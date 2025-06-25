@@ -238,7 +238,7 @@ const projects = [
   {
     id: 3,
     name: 'Bank App',
-    desc: 'The Bank App is a full-stack side project developed using React Native with Expo, simulating a sleek and secure mobile banking experience. It allows users to register, log in, view balances, track transaction history, and transfer funds—all from a smooth, intuitive mobile interface. The app integrates with a Node.js and Express backend, connected to a MongoDB database, and uses JWT-based authentication to ensure secure user sessions. Designed with real-time feedback via notifications and responsive UI components, this project showcases my ability to build cross-platform mobile applications that combine solid backend logic with modern mobile UX practices.',
+    desc: 'The Bank App is a full-stack side project developed using React Native with Expo, simulating a sleek and secure mobile banking experience. It allows users to register, log in, view balances, track transaction history, and transfer funds; all from a smooth, intuitive mobile interface. The app integrates with a Node.js and Express backend, connected to a MongoDB database, and uses JWT-based authentication to ensure secure user sessions. Designed with real-time feedback via notifications and responsive UI components, this project showcases my ability to build cross-platform mobile applications that combine solid backend logic with modern mobile UX practices.',
     tech: ['React Native', 'Node', 'Firebase', 'Git'],
     img: bankApp,
     carousel: [bankApp1, bankApp2, bankApp3],
@@ -292,7 +292,7 @@ const testimonials = [
     name: 'Mubeen Afzal',
     image:
       'https://media.licdn.com/dms/image/v2/D4D03AQGb4u1hiJJiKA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1671045312157?e=1756339200&v=beta&t=9mH84ij8DRkoSxYZg5ggCtLLJqFp642W4ZQ2vAbG6xQ',
-    text: "Faizan's the kind of guy you want in your corner. Give him something to do, and you can basically forget about it—it'll be handled, probably better than you even hoped. He just gets things done.",
+    text: "Faizan's the kind of guy you want in your corner. Give him something to do, and you can basically forget about it, it'll be handled, probably better than you even hoped. He just gets things done.",
     country: 'Pakistan',
     linkedIn: 'https://www.linkedin.com/in/mubeen-afzal-6a2828156/',
   },
