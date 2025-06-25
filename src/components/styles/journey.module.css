@@ -28,3 +28,41 @@
   font-family: 'Montserrat Alternates', sans-serif;
   color: var(--white);
 }
+
+.tech {
+  display: inline-block;
+  font-size: 0.875rem; /* equivalent to text-sm */
+  background-color: var(--white); /* Tailwind's gray-200 */
+  color: var(--light-grey); /* text-black */
+  border-radius: 9999px; /* fully rounded (rounded-full) */
+  padding: 0.25rem 0.75rem; /* py-1 px-3 */
+  margin-right: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.technologies {
+  display: inline-block;
+  font-size: 0.75rem;
+  background-color: var(--white);
+  color: var(--light-grey);
+  border-radius: 9999px;
+  padding: 0.25rem 0.75rem;
+  margin-right: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.itemTitle {
+  font-size: 1.125rem;
+  color: var(--white);
+  font-weight: 600;
+}
+
+.itemCompany {
+  font-size: 1rem;
+  color: var(--white);
+}
+
+.itemDate {
+  margin: 0px 15px 0px 15px;
+  color: var(--white);
+}

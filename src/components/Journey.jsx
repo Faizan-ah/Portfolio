@@ -40,7 +40,7 @@ const Journey = () => {
               }}
               contentArrowStyle={{ borderRight: '7px solid var(--background)' }}
               date={item.years}
-              dateClassName="mx-3"
+              dateClassName={style.itemDate}
               iconStyle={{ background: 'var(--cyan)', color: 'var(--white)' }}
               icon={
                 item.type === 'education' ? (
@@ -52,22 +52,16 @@ const Journey = () => {
             >
               <div className="mb-2">
                 {item.mainTech?.map((tech, idx) => (
-                  <span
-                    key={idx}
-                    className="inline-block text-sm bg-gray-200 text-black rounded-full px-3 py-1 mr-2 mb-2"
-                  >
+                  <span key={idx} className={style.tech}>
                     {tech}
                   </span>
                 ))}
               </div>
-              <h3 className="text-lg font-semibold">{item.title}</h3>
-              <h4 className="text-md text-gray-600">{item.company}</h4>
+              <h3 className={style.itemTitle}>{item.title}</h3>
+              <h4 className={style.itemCompany}>{item.company}</h4>
               <div className="mt-2">
                 {item.technologies?.map((tech, idx) => (
-                  <span
-                    key={idx}
-                    className="inline-block text-xs bg-gray-100 text-gray-800 rounded-full px-2 py-1 mr-2 mb-2"
-                  >
+                  <span key={idx} className={style.technologies}>
                     {tech}
                   </span>
                 ))}
