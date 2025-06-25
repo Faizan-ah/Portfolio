@@ -6,7 +6,7 @@ Welcome to the codebase for my personal developer portfolio. This is a modern, r
 
 ## 🚀 Live Demo
 
-👉 [Visit Portfolio Website](https://my-portfolio-url.com)
+👉 [Visit Portfolio](https://meetfaizan.vercel.app/)
 
 ---
 
