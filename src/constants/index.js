@@ -284,7 +284,7 @@ const testimonials = [
     image:
       'https://media.licdn.com/dms/image/v2/D5603AQHqUZsZFF5Hog/profile-displayphoto-shrink_200_200/B56ZYzFuvYHoAY-/0/1744613865878?e=1756339200&v=beta&t=82psW0piIrrsjNUyQ1NUcFEywYFVMUOufTxT0NqxPKw',
     text: "I genuinely value the professional relationship we've developed during our time at Tekrowe. He has shown exceptional talent and potential, and I believe there could be exciting opportunities for us to collaborate again in the future.",
-    country: 'Bosten, US',
+    country: 'Boston, US',
     linkedIn: 'https://www.linkedin.com/in/aburawimd/',
   },
   {
