@@ -48,7 +48,7 @@ const About = () => (
           rel="noreferrer"
         >
           Full-Stack Developer Certification from Integrify
-        </a>{' '}
+        </a>
         , further sharpening my skills and validating my commitment to
         high-quality, scalable software development.
       </motion.p>
