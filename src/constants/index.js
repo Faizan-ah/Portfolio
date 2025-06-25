@@ -410,7 +410,7 @@ const journeyData = [
   {
     type: 'education',
     title: 'Master Degree Program in Health Technology',
-    company: 'COMSATS University Islamabad',
+    company: 'University of Turku',
     years: '2023 - 2025',
     mainTech: ['Health Technology'],
     technologies: ['AI', 'ML', 'Data sciences', 'Python'],
